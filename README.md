@@ -8,7 +8,7 @@ Second year student at the Polytechnic University of Timisoara. Interested in al
 
 * 🌍  I'm based in Timisoara
 * ✉️  You can contact me at [robertgaube123@gmail.com](mailto:robertgaube123@gmail.com)
-* 🧠  I'm learning Object Oriented Programming
+* 🧠  I'm learning C++
 
 ### Skills
 
